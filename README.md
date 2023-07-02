@@ -19,9 +19,9 @@
 
 #### 7.make label >> https://www.makesense.ai/
 #### 8.split data >> split_imgs.ipynb
-
-#### 9.Train >> https://docs.ultralytics.com/usage/cli/#train 
+#### 9.edit custom.yaml
+#### 10.Train >> https://docs.ultralytics.com/usage/cli/#train 
 ##### - train >> yolo task=detect mode=train model=yolov8m.pt data=custom.yaml epochs=3 imgsz=640 batch=2 workers=0
 ##### - transfer weights >> yolo task=detect mode=train model=yolov8m.pt pretrained=best.pt data=custom.yaml epochs=3 imgsz=640 batch=2 workers=0
 
-#### 10.predict >> Predict_img_floder_vdo.ipynb
+#### 11.predict >> Predict_img_floder_vdo.ipynb
