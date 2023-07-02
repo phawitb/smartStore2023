@@ -1,9 +1,7 @@
 # smartStore2023
 #### 0.setup dir >> 
-  data--train--images  
-             --labels  
-  data--val--images  
-           --labels  
+  data--train--images/labels  
+  data--val--images/labels  
                          
 #### 1.conda create --name yolov8 python=3.9
 #### 2.pip install notebook
