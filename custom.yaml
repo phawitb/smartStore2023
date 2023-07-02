@@ -1,0 +1,5 @@
+train: C:\Users\phawit\Documents\yolov8\data\train
+val: C:\Users\phawit\Documents\yolov8\data\val
+
+nc: 3
+names: ["pencil","magic","nail_cliper"]
