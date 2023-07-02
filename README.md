@@ -1,8 +1,8 @@
 # smartStore2023
 
-#### 1.conda create --name yolov8 python=3.9
+###### 1.conda create --name yolov8 python=3.9
 2.pip install notebook
-3.python -m ipykernel install --user --name=yolov8
+3.python -m ipykernel install --user --name=yolov8  
 
 4.install pytorch GPU >> https://pytorch.org/get-started/locally/
 	- check cuda version! and install >> nvidia-smi
